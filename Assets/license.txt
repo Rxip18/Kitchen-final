@@ -1,0 +1,11 @@
+Model Information:
+* title:	Тhe Little Drawer
+* source:	https://sketchfab.com/3d-models/he-little-drawer-fe11ea9bfb4441dca940fa592eda0fba
+* author:	Collector's Cabinet (https://sketchfab.com/collectorscabinet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Тhe Little Drawer" (https://sketchfab.com/3d-models/he-little-drawer-fe11ea9bfb4441dca940fa592eda0fba) by Collector's Cabinet (https://sketchfab.com/collectorscabinet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
